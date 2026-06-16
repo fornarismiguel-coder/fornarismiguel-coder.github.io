@@ -1,0 +1,15 @@
+SUBÍ AQUÍ TUS IMÁGENES (las de Instagram).
+
+La sección "Novedades" del inicio busca estos 4 archivos EXACTOS:
+
+  54-anios.jpg            -> post de los 54 años
+  pronto-pago.jpg         -> banner descuentos pronto pago
+  comercio-exterior.jpg   -> programa comercio exterior
+  marketing-digital.jpg   -> programa marketing digital
+
+Recomendado:
+- Formato vertical (4:5), tipo publicación de Instagram.
+- .jpg o .png, buena resolución (1080px de ancho o más se ven nítidas).
+- Mismo nombre, en minúsculas, sin espacios ni tildes.
+
+Si falta alguna, la tarjeta muestra su color de marca (no se rompe el sitio).
